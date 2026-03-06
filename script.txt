@@ -1,3 +1,4 @@
+>>>>>>> origin
 AI Content Marketing – UGC Ad Script
 
 Hook:
@@ -13,4 +14,21 @@ Benefit:
 AI helps businesses save time, improve creativity, and produce high-quality marketing content easily.
 
 Call To Action:
+=======
+AI Content Marketing – UGC Ad Script
+
+Hook:
+Are you struggling to create engaging ads for your brand?
+
+Problem:
+Many small businesses spend hours creating marketing content, but their ads fail to attract customers and generate results.
+
+Solution:
+With AI-powered tools, you can create professional marketing ads, scripts, and visuals in just a few seconds.
+
+Benefit:
+AI helps businesses save time, improve creativity, and produce high-quality marketing content easily.
+
+Call To Action:
+>>>>>>> bde5de9d36fb7b6a026d96abb699d8452452d26c
 Start using AI today and transform your marketing strategy!

@@ -1,3 +1,4 @@
+>>>>>>> origin
 Generate a 25-second voiceover script for a café advertisement targeting college students.
 
 Structure:
@@ -11,4 +12,19 @@ Tone:
 Casual, friendly, influencer style.
 
 Language:
+=======
+Generate a 25-second voiceover script for a café advertisement targeting college students.
+
+Structure:
+Hook: Coffee is expensive everywhere.
+Discovery: Student finds Brew Haven café.
+Solution: Affordable premium coffee.
+Experience: Students studying and enjoying the café.
+CTA: Invite viewers to visit Brew Haven.
+
+Tone:
+Casual, friendly, influencer style.
+
+Language:
+>>>>>>> bde5de9d36fb7b6a026d96abb699d8452452d26c
 English and Kannada.

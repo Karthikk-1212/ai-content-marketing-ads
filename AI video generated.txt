@@ -1,3 +1,4 @@
+>>>>>>> origin
 Create a 3D animated vertical video advertisement for a modern café called Brew Haven.
 
 Scene 1:
@@ -16,4 +17,24 @@ Scene 5:
 Students cheering coffee cups together in a warm aesthetic café.
 
 Style:
+=======
+Create a 3D animated vertical video advertisement for a modern café called Brew Haven.
+
+Scene 1:
+Animated Indian college girl looking frustrated holding expensive coffee outside a café.
+
+Scene 2:
+Animated cozy café interior with warm lighting as the student walks inside.
+
+Scene 3:
+Close-up slow-motion coffee pouring into a glass mug with steam rising.
+
+Scene 4:
+Group of college students studying with laptops and enjoying coffee.
+
+Scene 5:
+Students cheering coffee cups together in a warm aesthetic café.
+
+Style:
+>>>>>>> bde5de9d36fb7b6a026d96abb699d8452452d26c
 Cinematic lighting, smooth camera motion, modern café aesthetic, vertical 9:16 Instagram reel format.
